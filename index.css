@@ -145,7 +145,7 @@ html {
           }
         }
         article {
-          background-image: url(images/BG.gif);
+          background-image: url(./images/BG.gif);
           background-position: center;
           background-size: cover;
           background-repeat: no-repeat;
